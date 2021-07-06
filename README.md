@@ -1,3 +1,3 @@
 # dWaves
 startup's company site
-[Link on the site is here](https://github.com/Marina51533/dWaves.git)
+[Link on the site is here](https://marina51533.github.io/dWaves/)
